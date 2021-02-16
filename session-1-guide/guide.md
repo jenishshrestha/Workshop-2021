@@ -34,8 +34,8 @@ For MAMP, XAMPP, Wamp and laragon:
 1. Open your browser and go to **http://localhost/phpmyadmin/**
 2. Login to phpmyadmin (By default username is root and password is empty).
 3. Click on databases tab next to SQL.
-   1. Give a Database name
-   1. Select utf8mb4_unicode_ci from the download
+   1. Give a Database name.
+   1. Select utf8mb4_unicode_ci from the dropdown.
 4. Click create (Empty database will be created).
 
 #### Install Wordpress
