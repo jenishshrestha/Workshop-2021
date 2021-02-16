@@ -1,4 +1,4 @@
-# Guide to install WordPress in your local installation
+# Guide to install WordPress in your computer
 
 #### Local server
 
