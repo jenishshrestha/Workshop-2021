@@ -42,8 +42,13 @@ For MAMP, XAMPP, Wamp and laragon:
 
 1. In browser, go to **http://localhost/workshop**. (Default url should look like this but laragon, MAMP pro, LocalWp can beautify the url to something like **http://workshop.local/**)
 2. Follow the steps for installation.
-   1. Database name: "name of the database that you created"
-   2. Username: "root"
+   1. Database name: name of the database that you created
+   2. Username: root
    3. Password is empty
-   4. Database Host: "localhost"
-   5. Table prefix: "wp\_"
+   4. Database Host: localhost
+   5. Table prefix: wp\_
+
+#### Theme and plugins
+
+1. Copy **blanktheme** folder from required-themes folder and paste it inside you-project-folder(workshop)=>wp-content=>themes.
+1. Copy all folders from required-plugins folder and paste it inside you-project-folder(workshop)=>wp-content=>plugins.
