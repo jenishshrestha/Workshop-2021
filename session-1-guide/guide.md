@@ -51,4 +51,11 @@ For MAMP, XAMPP, Wamp and laragon:
 #### Theme and plugins
 
 1. Copy **blanktheme** folder from required-themes folder and paste it inside you-project-folder(workshop)=>wp-content=>themes.
-1. Copy all folders from required-plugins folder and paste it inside you-project-folder(workshop)=>wp-content=>plugins.
+2. Copy all folders from required-plugins folder and paste it inside you-project-folder(workshop)=>wp-content=>plugins.
+
+#### Video tutorials
+
+1. Using Laragon (https://www.youtube.com/watch?v=8YC4B4Lu90Y)
+2. Using MAMP Pro (https://www.youtube.com/watch?v=B4fujTp7k7Q)
+3. Using Xampp (https://www.youtube.com/watch?v=A4r-Q5YnMLE)
+4. Using LocalWp (https://www.youtube.com/watch?v=tkf0fbrttsU)
