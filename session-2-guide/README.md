@@ -13,7 +13,7 @@
 
 Lets create two project to understand gatsby better.
 
-1. Create a new default project (without any CMS integrated)
+#### 1. Create a new default project (without any CMS integrated)
 
 `gatsby new {your-project-name}`
 
@@ -23,7 +23,7 @@ For Example:
 
 This should create a project with folder name **gatsby-only**
 
-2. Create a new project using starter for WordPress
+#### 2. Create a new project using starter for WordPress
 
 `gatsby new {your-project-name} {link-to-starter}`
 
@@ -31,7 +31,7 @@ This should create a project with folder name **gatsby-only**
 
 This should create a project with folder name **gatsby-with-wp**
 
-3. Alternative way to create project (Optional)
+#### 3. Alternative way to create project (Optional)
 
 `npm init gatsby`
 
